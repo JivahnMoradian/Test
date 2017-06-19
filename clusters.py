@@ -79,3 +79,6 @@ show(clay1)
 p4.set_title("Clay",fontweight='bold')
 fig.savefig('Clustered.png')
 
+
+I AM MAKING BIG CHANGES!!!!!
+
